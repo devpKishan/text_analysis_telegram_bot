@@ -20,8 +20,8 @@ A simple Telegram bot that analyzes text messages for various features like word
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/telegram-text-analysis-bot.git
-   cd telegram-text-analysis-bot
+   git clone https://github.com/devpKishan/text_analysis_telegram_bot.git
+   cd text_analysis_telegram_bot
    ```
 
 2. **Create a virtual environment (optional but recommended)**:
@@ -83,3 +83,13 @@ telegram-text-analysis-bot/
 ## License
 
 This project is licensed under the MIT License.
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xecurekishan)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/devpKishan)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/DevpKishan)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_.xecure)
+
+### Email
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:kishanpatel1951.com)
