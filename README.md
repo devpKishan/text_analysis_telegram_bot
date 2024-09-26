@@ -1,6 +1,8 @@
 # Telegram Text Analysis Bot
 
 A simple Telegram bot that analyzes text messages for various features like word count, character count, sentence count, and more. Built with Python using the `pyTelegramBotAPI` library.
+## Check Out in Telegram
+https://t.me/word_counterbot
 
 ## Features
 
